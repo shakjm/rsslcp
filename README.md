@@ -1,2 +1,2 @@
 # rsslcp
-Lung Cancer Prediction
+Patient IDs for NLST dataset in Lung Cancer Prediction
